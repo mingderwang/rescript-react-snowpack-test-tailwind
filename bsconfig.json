@@ -1,0 +1,20 @@
+{
+  "name": "rescript-react-snowpack-test-tailwind",
+  "reason": { "react-jsx": 3 },
+  "package-specs": {
+    "module": "es6",
+    "in-source": true
+  },
+  "bsc-flags": ["-bs-super-errors"],
+  "sources": [
+    {
+      "dir": "src",
+      "subdirs" : true
+    }
+  ],
+  "suffix": ".bs.js",
+  "namespace": true,
+  "bs-dependencies": ["@rescript/react", "rescript-js", "bs-webapi"],
+  "bs-dev-dependencies": ["rescript-test"],
+  "ppx-flags": []
+}

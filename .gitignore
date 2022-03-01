@@ -1,6 +1,8 @@
 node_modules
+lib
 build
 .vercel
 .env
 .env.local
 .env.production
+.merlin
