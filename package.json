@@ -1,6 +1,6 @@
 {
-  "name": "my-first-snowpack",
-  "version": "0.0.1",
+  "name": "snowpack-rescript-react-test-tailwind",
+  "version": "0.0.2",
   "author": "Ming-der Wang",
   "license": "ISC",
   "scripts": {
